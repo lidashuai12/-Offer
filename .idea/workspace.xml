@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae5797f5-903d-4c97-8d9a-cb7c8fcfcafc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IDEA\InstallFile\IntelliJ IDEA 2019.3.5\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FmlwcqNsVjYFIag8Up1GSR4017" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Solution19">
+    <configuration name="Solution14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Solution14" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Solution18" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution.Solution19" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution19" />
+        <item itemvalue="Application.Solution18" />
+        <item itemvalue="Application.Solution14" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae5797f5-903d-4c97-8d9a-cb7c8fcfcafc" name="Default Changelist" comment="" />
+      <created>1665105379860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665105379860</updated>
+      <workItem from="1665105382776" duration="10707000" />
+      <workItem from="1665981024751" duration="3115000" />
+      <workItem from="1666056244009" duration="6622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1289" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1665982450764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1289" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1665982450764" />
+    <state width="790" height="189" key="GridCell.Tab.0.bottom" timestamp="1666081126258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="790" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1666081126258" />
+    <state width="790" height="189" key="GridCell.Tab.0.center" timestamp="1666081126258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="790" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1666081126258" />
+    <state width="790" height="189" key="GridCell.Tab.0.left" timestamp="1666081126257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="790" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1666081126257" />
+    <state width="790" height="189" key="GridCell.Tab.0.right" timestamp="1666081126258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="790" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1666081126258" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1665133484672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1665133484672" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1665133484672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1665133484672" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1665133484672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1665133484672" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1665133484672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1665133484672" />
+  </component>
+</project>
